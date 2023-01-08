@@ -3,6 +3,7 @@
 
 This repository contains all the codes and datasets required to replicate the experiments and analysis in the article "Fingerprint-enhanced graph attention network (FinGAT) model for antibiotic discovery".
 
+![flowchart](https://github.com/ExpectozJJ/FinGAT/blob/main/GAT.png)
 
 The code for this project was written in JupyterNotebook
 
@@ -34,8 +35,6 @@ It contains the pretrained word embeddings for tokens of the SMILES strings of t
 
 ##### 5 Fold CV
 A folder contains 5 splits (or folds) of training and test sets for 5 fold cross validation. These 5 folds of data will be used in the model evaluations for the our proposed model and the competing GNN models. 
-
-![flowchart](https://github.com/ExpectozJJ/FinGAT/blob/main/GAT.png)
 
 ### Models
 
