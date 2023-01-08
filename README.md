@@ -35,7 +35,7 @@ It contains the pretrained word embeddings for tokens of the SMILES strings of t
 ##### 5 Fold CV
 A folder contains 5 splits (or folds) of training and test sets for 5 fold cross validation. These 5 folds of data will be used in the model evaluations for the our proposed model and the competing GNN models. 
 
-![flowchart](https://user-images.githubusercontent.com/32187437/187708602-27ee23d5-70a4-41e2-a518-0663df03ab0b.png)
+![flowchart](https://github.com/ExpectozJJ/FinGAT/blob/main/GAT.png)
 
 ### Models
 
